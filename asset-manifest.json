@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/list/static/css/main.34e27853.chunk.css",
-    "main.js": "/list/static/js/main.2fb4e31e.chunk.js",
-    "main.js.map": "/list/static/js/main.2fb4e31e.chunk.js.map",
-    "runtime-main.js": "/list/static/js/runtime-main.d8e0fdbd.js",
-    "runtime-main.js.map": "/list/static/js/runtime-main.d8e0fdbd.js.map",
-    "static/js/2.ad5aac3f.chunk.js": "/list/static/js/2.ad5aac3f.chunk.js",
-    "static/js/2.ad5aac3f.chunk.js.map": "/list/static/js/2.ad5aac3f.chunk.js.map",
-    "index.html": "/list/index.html",
-    "precache-manifest.73b83e3fa44fb958fed15860026c9917.js": "/list/precache-manifest.73b83e3fa44fb958fed15860026c9917.js",
-    "service-worker.js": "/list/service-worker.js",
-    "static/css/main.34e27853.chunk.css.map": "/list/static/css/main.34e27853.chunk.css.map",
-    "static/js/2.ad5aac3f.chunk.js.LICENSE.txt": "/list/static/js/2.ad5aac3f.chunk.js.LICENSE.txt",
-    "static/media/1.jpg": "/list/static/media/1.180a9794.jpg"
+    "main.css": "/shambhavi28012000/todolist.git/static/css/main.34e27853.chunk.css",
+    "main.js": "/shambhavi28012000/todolist.git/static/js/main.90a37699.chunk.js",
+    "main.js.map": "/shambhavi28012000/todolist.git/static/js/main.90a37699.chunk.js.map",
+    "runtime-main.js": "/shambhavi28012000/todolist.git/static/js/runtime-main.8d4b9d5d.js",
+    "runtime-main.js.map": "/shambhavi28012000/todolist.git/static/js/runtime-main.8d4b9d5d.js.map",
+    "static/js/2.ad5aac3f.chunk.js": "/shambhavi28012000/todolist.git/static/js/2.ad5aac3f.chunk.js",
+    "static/js/2.ad5aac3f.chunk.js.map": "/shambhavi28012000/todolist.git/static/js/2.ad5aac3f.chunk.js.map",
+    "index.html": "/shambhavi28012000/todolist.git/index.html",
+    "precache-manifest.e36e4ac8cccfdeaa3aa2fe09671d8d74.js": "/shambhavi28012000/todolist.git/precache-manifest.e36e4ac8cccfdeaa3aa2fe09671d8d74.js",
+    "service-worker.js": "/shambhavi28012000/todolist.git/service-worker.js",
+    "static/css/main.34e27853.chunk.css.map": "/shambhavi28012000/todolist.git/static/css/main.34e27853.chunk.css.map",
+    "static/js/2.ad5aac3f.chunk.js.LICENSE.txt": "/shambhavi28012000/todolist.git/static/js/2.ad5aac3f.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/shambhavi28012000/todolist.git/static/media/1.180a9794.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d8e0fdbd.js",
+    "static/js/runtime-main.8d4b9d5d.js",
     "static/js/2.ad5aac3f.chunk.js",
     "static/css/main.34e27853.chunk.css",
-    "static/js/main.2fb4e31e.chunk.js"
+    "static/js/main.90a37699.chunk.js"
   ]
 }
